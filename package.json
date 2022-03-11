@@ -1,0 +1,14 @@
+{
+  "name": "tv-detector",
+  "version": "1.0.0",
+  "description": "Detect if current browser is a tv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tv"
+  ],
+  "author": "Owais abukreifeh",
+  "license": "ISC"
+}
