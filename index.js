@@ -188,12 +188,12 @@ function getTizenVersion() {
  */
 function getWebosVersion() {
   var versions = {
-    "applewebkit/537.41": 1,
-    "applewebkit/538.2": 2,
-    "chrome/38": 3,
-    "chrome/53": 4,
-    "chrome/68": 5,
-    "chrome/79": 6,
+    "applewebkit/537.41": "1.0",
+    "applewebkit/538.2": "2.0",
+    "chrome/38": "3.0",
+    "chrome/53": "4.0",
+    "chrome/68": "5.0",
+    "chrome/79": "6.0",
   };
 
   for (var key in versions) {
